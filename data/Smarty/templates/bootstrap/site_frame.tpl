@@ -38,10 +38,7 @@
     <meta name="robots" content="<!--{$arrPageLayout.meta_robots|h}-->" />
     <!--{/if}-->
     <link rel="stylesheet" href="<!--{$TPL_URLPATH}-->css/styles.css" media="all" />
-<<<<<<< HEAD
     <link rel="stylesheet" href="<!--{$TPL_URLPATH}-->css/custom.css" media="all" />
-=======
->>>>>>> b7a2bee7c024f49faa1a93075caab54e6e80e8d8
     <link rel="alternate" type="application/rss+xml" title="RSS" href="<!--{$smarty.const.HTTP_URL}-->rss/<!--{$smarty.const.DIR_INDEX_PATH}-->" />
 
     <!--{strip}-->

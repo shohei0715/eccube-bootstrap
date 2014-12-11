@@ -1,4 +1,4 @@
-<!--{*
+'<!--{*
  * This file is part of EC-CUBE
  *
  * Copyright(c) 2000-2013 LOCKON CO.,LTD. All Rights Reserved.
@@ -23,11 +23,7 @@
 <!--{strip}-->
 <div class="block_outer">
   <div id="search_area">
-<<<<<<< HEAD
     <h2>商品検索</h2>
-=======
-    <h2>検索条件</h2>
->>>>>>> b7a2bee7c024f49faa1a93075caab54e6e80e8d8
     <div class="block_body">
       <!--検索フォーム-->
       <form name="search_form" id="search_form" method="get" action="<!--{$smarty.const.ROOT_URLPATH}-->products/list.php">
