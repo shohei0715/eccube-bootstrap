@@ -27,7 +27,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<!--{$smarty.const.ROOT_URLPATH}-->js/jquery.colorbox/colorbox.css" />
     <link rel="stylesheet" href="<!--{$TPL_URLPATH}-->css/styles.css" media="all" />
+<<<<<<< HEAD
     <link rel="stylesheet" href="<!--{$TPL_URLPATH}-->css/custom.css" media="all" />
+=======
+>>>>>>> b7a2bee7c024f49faa1a93075caab54e6e80e8d8
     <title><!--{$arrSiteInfo.shop_name}-->/<!--{$subtitle|h}--></title>
     <script type="text/javascript">
       <!--{$tpl_javascript}-->
